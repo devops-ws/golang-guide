@@ -1,4 +1,5 @@
 # golang-guide
+You could directly run all the code lines via [mde](https://github.com/LinuxSuRen/md-exec).
 
 ```go
 #!title: JSON Demo
